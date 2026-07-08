@@ -8,13 +8,13 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:8e2de2,100:6ee7b7&height=170&section=header&text=Guilherme%20do%20Vale&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6EE7B7&center=true&vCenter=true&width=480&lines=Desenvolvedor+Full-Stack;Java+%2B+Spring+Boot+%7C+React+%2B+Angular;Transformando+ideias+em+produtos+%E2%9C%A8)](https://github.com/Guilherme-Vale-98)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6EE7B7&center=true&vCenter=true&width=480&lines=Desenvolvedor+Full-Stack;Java+%2B+Spring+Boot+%7C+React+%2B+Angular;Ci%C3%AAncia+%26+Tecnologia)](https://github.com/Guilherme-Vale-98)
 
 </div>
 
 ### 🧑‍💻 Sobre Mim
 
-Sou um desenvolvedor full-stack do Brasil que gosta de construir produtos completos — de APIs REST e microsserviços no backend a interfaces limpas e responsivas no frontend. Aprendo colocando a mão na massa: plataformas de estudo, sistemas de agendamento, jogos e desafios de pagamento estão todos nos meus repositórios. No momento estou focado em evoluir como desenvolvedor um projeto de cada vez, e adoro transformar ideias em coisas que realmente funcionam. 🚀
+Olá pessoal, bem-vindos à minha página! Sou Desenvolvedor Full Stack do Brasil, formado em Física e com grande interesse em construir software útil e bem estruturado. Eu realmente gosto de estudar e compartilhar conhecimento. Valorizo comunicação clara, responsabilidade, colaboração e um código que não seja apenas funcional, mas também limpo, compreensível e de fácil manutenção. Nerd de carteirinha, grande fã de filmes, games e programação.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vale-b49053198/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prodevgui.vercel.app/)

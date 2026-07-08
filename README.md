@@ -8,13 +8,13 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:8e2de2,100:6ee7b7&height=170&section=header&text=Guilherme%20do%20Vale&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6EE7B7&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Java+%2B+Spring+Boot+%7C+React+%2B+Angular;Building+things+that+work+%E2%9C%A8)](https://github.com/Guilherme-Vale-98)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6EE7B7&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Java+%2B+Spring+Boot+%7C+React+%2B+Angular;Science+%26+Technology)](https://github.com/Guilherme-Vale-98)
 
 </div>
 
 ### 🧑‍💻 About Me
 
-I'm a full-stack developer from Brazil who enjoys building complete products — from REST APIs and microservices on the backend to clean, responsive interfaces on the frontend. I learn by shipping: study platforms, booking systems, games and payment challenges all live in my repos. Right now I'm focused on growing as a developer one project at a time, and I love turning ideas into things that actually work. 🚀
+Hi everyone, welcome to my page! I'm a Full Stack Developer from Brazil with a background in Physics and a strong interest in building useful, well-structured software. I genuinely enjoy studying and sharing knowledge. I value clear communication, responsibility, collaboration, and writing code that is not only functional, but also clean, understandable, and maintainable. Major computer nerd, big fan of movies, games and coding.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vale-b49053198/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prodevgui.vercel.app/)
