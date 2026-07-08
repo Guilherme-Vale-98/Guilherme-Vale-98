@@ -42,11 +42,11 @@ Hi everyone, welcome to my page! I'm a Full Stack Developer from Brazil with a b
 
 <div align="center">
 
-[![cinema-system](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=cinema-system&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/cinema-system)
-[![car-rental](https://github-stats-extended.vercel.app/api/pin/?username=myOrganization-GV&repo=car-rental-frontend&show_owner=true&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/myOrganization-GV/car-rental-frontend)
+[![cinema-system](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=cinema-system&v=2&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/cinema-system)
+[![car-rental](https://github-stats-extended.vercel.app/api/pin/?username=myOrganization-GV&repo=car-rental-frontend&show_owner=true&v=2&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/myOrganization-GV/car-rental-frontend)
 
-[![RodaRoleta](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=RodaRoleta&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/RodaRoleta)
-[![guessio](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=guessio&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/guessio)
+[![RodaRoleta](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=RodaRoleta&v=2&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/RodaRoleta)
+[![guessio](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=guessio&v=2&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/guessio)
 
 </div>
 
