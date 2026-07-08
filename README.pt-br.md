@@ -19,11 +19,14 @@ Olá pessoal, bem-vindos à minha página! Sou Desenvolvedor Full Stack do Brasi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vale-b49053198/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prodevgui.vercel.app/)
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ### 💻 Linguagens & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -34,6 +37,17 @@ Olá pessoal, bem-vindos à minha página! Sou Desenvolvedor Full Stack do Brasi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+</td>
+<td valign="top" width="45%">
+
+### 📊 Minhas Linguagens
+
+![Principais linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-Vale-98&layout=compact&hide_border=true&bg_color=0a0a12&title_color=a855f7&text_color=c4b5fd&locale=pt-br&exclude_repo=Gtk4-tutorial,My-RESTAPIs-Boilerplate,awesome-system-design-resources,build-your-own-x,game-programmer,awesome-low-level-design,angular-16-complete-course-03-24,javaee8-jsf-sample,microservices-with-spring-sectionwise-code,cs-video-courses,SwervinMervin)
+
+</td>
+</tr>
+</table>
 
 ### 📌 Projetos em Destaque
 
@@ -47,16 +61,11 @@ Olá pessoal, bem-vindos à minha página! Sou Desenvolvedor Full Stack do Brasi
 
 </div>
 
-### 📊 Minhas Linguagens & Atividade
+### 📊 Minha Atividade
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-Vale-98&layout=compact&hide_border=true&bg_color=0a0a12&title_color=a855f7&text_color=c4b5fd&locale=pt-br&exclude_repo=Gtk4-tutorial,My-RESTAPIs-Boilerplate,awesome-system-design-resources,build-your-own-x,game-programmer,awesome-low-level-design,angular-16-complete-course-03-24,javaee8-jsf-sample,microservices-with-spring-sectionwise-code,cs-video-courses,SwervinMervin" alt="Principais linguagens"></td>
-    <td align="center"><img src="https://streak-stats.demolab.com/?user=Guilherme-Vale-98&hide_border=true&background=0a0a12&ring=6ee7b7&fire=a855f7&currStreakLabel=6ee7b7&sideLabels=a855f7&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=8b949e&stroke=45475a&locale=pt_BR" alt="Sequência"></td>
-  </tr>
-</table>
+![Sequência](https://streak-stats.demolab.com/?user=Guilherme-Vale-98&hide_border=true&background=0a0a12&ring=6ee7b7&fire=a855f7&currStreakLabel=6ee7b7&sideLabels=a855f7&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=8b949e&stroke=45475a&locale=pt_BR)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6ee7b7,55:8e2de2,100:000000&height=90&section=footer)
 
