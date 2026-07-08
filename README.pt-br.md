@@ -56,7 +56,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-Vale-98&layout=compact&hide_border=true&bg_color=0a0a12&title_color=a855f7&text_color=c4b5fd&locale=pt-br" alt="Principais linguagens"></td>
+    <td align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-Vale-98&layout=compact&hide_border=true&bg_color=0a0a12&title_color=a855f7&text_color=c4b5fd&locale=pt-br&exclude_repo=Gtk4-tutorial" alt="Principais linguagens"></td>
     <td align="center"><img src="https://streak-stats.demolab.com/?user=Guilherme-Vale-98&hide_border=true&background=0a0a12&ring=6ee7b7&fire=a855f7&currStreakLabel=6ee7b7&sideLabels=a855f7&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=8b949e&stroke=45475a&locale=pt_BR" alt="Sequência"></td>
   </tr>
 </table>
