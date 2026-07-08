@@ -14,10 +14,7 @@
 
 ### 🧑‍💻 Sobre Mim
 
-- 💼 Desenvolvedor Full-Stack do Brasil
-- ⚙️ Backend: Java, Spring Boot & microsserviços
-- 🎨 Frontend: React, Angular & TypeScript
-- 🚀 Adoro transformar ideias em produtos que funcionam
+Sou um desenvolvedor full-stack do Brasil que gosta de construir produtos completos — de APIs REST e microsserviços no backend a interfaces limpas e responsivas no frontend. Aprendo colocando a mão na massa: plataformas de estudo, sistemas de agendamento, jogos e desafios de pagamento estão todos nos meus repositórios. No momento estou focado em evoluir como desenvolvedor um projeto de cada vez, e adoro transformar ideias em coisas que realmente funcionam. 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vale-b49053198/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prodevgui.vercel.app/)

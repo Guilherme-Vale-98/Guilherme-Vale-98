@@ -14,10 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Full-Stack Developer from Brazil
-- ⚙️ Backend: Java, Spring Boot & microservices
-- 🎨 Frontend: React, Angular & TypeScript
-- 🚀 I love turning ideas into working products
+I'm a full-stack developer from Brazil who enjoys building complete products — from REST APIs and microservices on the backend to clean, responsive interfaces on the frontend. I learn by shipping: study platforms, booking systems, games and payment challenges all live in my repos. Right now I'm focused on growing as a developer one project at a time, and I love turning ideas into things that actually work. 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vale-b49053198/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prodevgui.vercel.app/)
