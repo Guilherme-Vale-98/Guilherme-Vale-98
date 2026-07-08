@@ -42,11 +42,11 @@ Olá pessoal, bem-vindos à minha página! Sou Desenvolvedor Full Stack do Brasi
 
 <div align="center">
 
-[![trainer-buddy](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=trainer-buddy&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/trainer-buddy)
-[![picpay-challenge](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=picpay-challenge&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/picpay-challenge)
-
 [![cinema-system](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=cinema-system&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/cinema-system)
-[![domina-enem](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=domina-enem&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/domina-enem)
+[![car-rental](https://github-stats-extended.vercel.app/api/pin/?username=myOrganization-GV&repo=car-rental-frontend&show_owner=true&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/myOrganization-GV/car-rental-frontend)
+
+[![RodaRoleta](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=RodaRoleta&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/RodaRoleta)
+[![guessio](https://github-stats-extended.vercel.app/api/pin/?username=Guilherme-Vale-98&repo=guessio&hide_border=true&bg_color=0a0a12&title_color=a855f7&icon_color=6ee7b7&text_color=c4b5fd)](https://github.com/Guilherme-Vale-98/guessio)
 
 </div>
 
