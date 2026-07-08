@@ -19,9 +19,7 @@ Olá pessoal, bem-vindos à minha página! Sou Desenvolvedor Full Stack do Brasi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vale-b49053198/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prodevgui.vercel.app/)
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" width="380" alt="Principais linguagens" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-Vale-98&layout=compact&hide_border=true&bg_color=0a0a12&title_color=a855f7&text_color=c4b5fd&locale=pt-br&exclude_repo=Gtk4-tutorial,My-RESTAPIs-Boilerplate,awesome-system-design-resources,build-your-own-x,game-programmer,awesome-low-level-design,angular-16-complete-course-03-24,javaee8-jsf-sample,microservices-with-spring-sectionwise-code,cs-video-courses,SwervinMervin">
 
 ### 💻 Linguagens & Frameworks
 
@@ -38,16 +36,7 @@ Olá pessoal, bem-vindos à minha página! Sou Desenvolvedor Full Stack do Brasi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-</td>
-<td valign="top" width="45%">
-
-### 📊 Minhas Linguagens
-
-![Principais linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-Vale-98&layout=compact&hide_border=true&bg_color=0a0a12&title_color=a855f7&text_color=c4b5fd&locale=pt-br&exclude_repo=Gtk4-tutorial,My-RESTAPIs-Boilerplate,awesome-system-design-resources,build-your-own-x,game-programmer,awesome-low-level-design,angular-16-complete-course-03-24,javaee8-jsf-sample,microservices-with-spring-sectionwise-code,cs-video-courses,SwervinMervin)
-
-</td>
-</tr>
-</table>
+<br clear="both">
 
 ### 📌 Projetos em Destaque
 
