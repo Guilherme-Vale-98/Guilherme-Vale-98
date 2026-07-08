@@ -54,8 +54,12 @@
 
 <div align="center">
 
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-Vale-98&layout=compact&hide_border=true&bg_color=0a0a12&title_color=a855f7&text_color=c4b5fd)
-![Streak](https://streak-stats.demolab.com/?user=Guilherme-Vale-98&hide_border=true&background=0a0a12&ring=6ee7b7&fire=a855f7&currStreakLabel=6ee7b7&sideLabels=a855f7&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=8b949e&stroke=45475a)
+<table>
+  <tr>
+    <td align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme-Vale-98&layout=compact&hide_border=true&bg_color=0a0a12&title_color=a855f7&text_color=c4b5fd" alt="Top languages"></td>
+    <td align="center"><img src="https://streak-stats.demolab.com/?user=Guilherme-Vale-98&hide_border=true&background=0a0a12&ring=6ee7b7&fire=a855f7&currStreakLabel=6ee7b7&sideLabels=a855f7&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=8b949e&stroke=45475a" alt="Streak"></td>
+  </tr>
+</table>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6ee7b7,55:8e2de2,100:000000&height=90&section=footer)
 
