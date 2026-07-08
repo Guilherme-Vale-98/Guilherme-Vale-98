@@ -1,6 +1,6 @@
 <div align="right">
 
-[🇺🇸 English version](./README.md) &nbsp;·&nbsp; ![Visualizações do perfil](https://komarev.com/ghpvc/?username=Guilherme-Vale-98&color=a855f7&style=flat-square&label=visualiza%C3%A7%C3%B5es)
+[🇺🇸 English version](./README.md)
 
 </div>
 
